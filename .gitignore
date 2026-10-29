@@ -1,0 +1,11 @@
+__pycache__/
+.ipynb_checkpoints/
+
+# LaTeX build files (main.pdf is kept on purpose)
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
