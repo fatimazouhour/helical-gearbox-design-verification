@@ -7,7 +7,7 @@ It verifies a two-stage helical reduction gearbox (6 kW at 2500 rpm in, about 23
 - **Pinions R1 and R3:** AGMA bending and pitting.
 - **Tapered roller bearings A–D:** SKF rating life and static safety.
 
-**Why I revised it:** I went back to this project after the course to practise to turn it into a clear, reproducible portfolio piece, i decided to use python (other option was Matlab, however i took this as an opportunity to further practice python) . While redoing the calculations in a Jupyter notebook several errors were revealed in our original group report (January 2025), which this edition corrects; see below. [below](#what-changed-from-the-original-submission).
+**Why I revised it:** I went back to this project after the course to turn it into a clear, reproducible portfolio piece, i decided to use Python (other option was Matlab, however i took this as an opportunity to further practice Python) . While redoing the calculations in a Jupyter notebook several errors were revealed in our original group report (January 2025), which this edition corrects; see [below](#what-changed-from-the-original-submission).
 
 📓 **[Open the notebook](gearbox_verification.ipynb)**: 
 📄 **[Read the report (PDF)](report/main.pdf)**:
